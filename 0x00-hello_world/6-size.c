@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - entry point
- * Description - using sizeof
- * Return - returns 0
+ * main - prints sizes in bytes
+ * return: returns 0
  */
 
 int main(void)
