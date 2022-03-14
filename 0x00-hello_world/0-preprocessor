@@ -1,3 +1,2 @@
 #!/bin/bash
 gcc -E $CFILE > c
-/* this script runs a C file through the preprocessor and the result saved in another file */
